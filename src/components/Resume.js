@@ -2,7 +2,7 @@ import ResumeImg from "../assects/resume.jpg";
 
 export default function Resume() {
   const config = {
-    link: "https://cloud.appwrite.io/v1/storage/https://cloud.appwrite.io/v1/storage/buckets/66335c92001f09afd206/files/66335cd3001097edd721/view?project=65effcd4e74568158697&mode=admin/65b9d74f62dd926e14ee/files/65f95ddf04335d61a0a3/view?project=65b9d70a67453f81421a&mode=admin", 
+    link: "https://drive.google.com/file/d/1EVztJfizovrNMf6eGd03XWX4_7QCIkHd/view?usp=sharing", 
   };
 
   return (
