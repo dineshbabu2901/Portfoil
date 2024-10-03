@@ -4,7 +4,7 @@ import profileImage from "../assects/photo.jpeg";
 const profileInfo = {
   name: "Dineshbabu S",
   workingExperience:
-    "Intern with 6 months of experience as a Full Stack Developer at KNACKBAY Vellore, India",
+    "Web developed",
   location: "Vellore, Tamil Nadu, India",
   education: {
     school: "SRK BHELL RAINPET",
